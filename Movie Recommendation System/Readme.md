@@ -17,6 +17,6 @@
   <li>past in dataset folder</li>
   <li>first run main.ipynb</li>
   <li>two files will created with .pkl extension</li>
-  <li>run app.py</li>
+  <li>run app.py<code> streamlit run app.py</code></li>
   <li>enjoy :)</li>
 </ul>
