@@ -1,14 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Product Recommendation System</h1>
+<h1>Product Recommendation System</h1>
     <h2>Requirments</h2>
     <ul>
         <li>Pandas</li>
@@ -20,8 +10,7 @@
         <li>pickle</li>
         <li>streamlit</li>
     </ul>
-
-    <h2>Instructions</h2>
+    <h2>Instructions to run</h2>
     <ul>
         <li>Download dataset from <a href="https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small">https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small</a></li>
         <li>Unzip dataset</li>
@@ -56,5 +45,5 @@
         </li>
         <li>Run app.py by using command <code>streamlit run app.py </code> </li>
     </ul>
-</body>
-</html>
+    <h1>Page looks like</h1>
+
