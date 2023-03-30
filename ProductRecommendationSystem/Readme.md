@@ -46,4 +46,14 @@
         <li>Run app.py by using command <code>streamlit run app.py </code> </li>
     </ul>
     <h1>Page looks like</h1>
+<center><h3>main page</h3></center>
 
+![one](assets/asset1.png)
+
+<center><h3>searching an item</h3></center>
+
+![one](assets/asset2.png)
+
+<center><h3>20 similar items</h3></center>
+
+![one](assets/asset3.png)
